@@ -1,3 +1,3 @@
 # Getting Stareted with Linux
 
-Let's dive into world of Linux
+Let's dive into the world of Linux.
